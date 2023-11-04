@@ -13,7 +13,7 @@ import purpleColorImage from '../assets/purple.png';
 import blackColorImage from '../assets/black.png';
 import maroonColorImage from '../assets/maroon.png';
 import skyblueColorImage from '../assets/skyblue.png';
-import orangeColorImage from '../assets/orange.png';
+
 const Dashboard = () => {
   const [suggestedColor, setSuggestedColor] = useState('');
 
