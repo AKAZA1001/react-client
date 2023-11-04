@@ -1,7 +1,6 @@
-import React, { Component } from 'react';
+
 import MainNavigation from "../components/MainNavigation";
 import { connect } from 'react-redux';
-
 import React, { useState } from 'react';
 import './Dashboard.css';
 import redColorImage from '../assets/red.png';
